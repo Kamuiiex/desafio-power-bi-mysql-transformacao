@@ -1,0 +1,38 @@
+{
+  "employees": 8,
+  "departments": 3,
+  "locations": 5,
+  "projects": 6,
+  "works_on": 16,
+  "dependents": 7,
+  "null_super_ssn": 1,
+  "null_hours": 1,
+  "manager_counts": [
+    {
+      "ManagerName": "Franklin T Wong",
+      "QtdColaboradores": 3
+    },
+    {
+      "ManagerName": "James E Borg",
+      "QtdColaboradores": 2
+    },
+    {
+      "ManagerName": "Jennifer S Wallace",
+      "QtdColaboradores": 2
+    }
+  ],
+  "department_counts": [
+    {
+      "Department": "Research",
+      "QtdColaboradores": 4
+    },
+    {
+      "Department": "Administration",
+      "QtdColaboradores": 3
+    },
+    {
+      "Department": "Headquarters",
+      "QtdColaboradores": 1
+    }
+  ]
+}

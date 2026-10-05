@@ -1,0 +1,7 @@
+﻿Pnumber,Project,Department,TotalHours,RegistrosSemHoras
+1,ProductX,Research,52.5,0
+2,ProductY,Research,37.5,0
+3,ProductZ,Research,50.0,0
+10,Computerization,Administration,90.0,0
+20,Reorganization,Headquarters,10.0,1
+30,Newbenefits,Administration,40.0,0

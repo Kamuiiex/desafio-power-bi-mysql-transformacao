@@ -1,0 +1,9 @@
+﻿EmployeeName,Ssn,Bdate,Sex,Salary,AddressNumber,Address,City,State,Super_ssn,ManagerName,Dno,Department
+John B Smith,123456789,1965-01-09,M,30000.0,731,Fondren,Houston,TX,333445555,Franklin T Wong,5,Research
+Franklin T Wong,333445555,1955-12-08,M,40000.0,638,Voss,Houston,TX,888665555,James E Borg,5,Research
+Alicia J Zelaya,999887777,1968-01-19,F,25000.0,3321,Castle,Spring,TX,987654321,Jennifer S Wallace,4,Administration
+Jennifer S Wallace,987654321,1941-06-20,F,43000.0,291,Berry,Bellaire,TX,888665555,James E Borg,4,Administration
+Ramesh K Narayan,666884444,1962-09-15,M,38000.0,975,Fire Oak,Humble,TX,333445555,Franklin T Wong,5,Research
+Joyce A English,453453453,1972-07-31,F,25000.0,5631,Rice,Houston,TX,333445555,Franklin T Wong,5,Research
+Ahmad V Jabbar,987987987,1969-03-29,M,25000.0,980,Dallas,Houston,TX,987654321,Jennifer S Wallace,4,Administration
+James E Borg,888665555,1937-11-10,M,55000.0,450,Stone,Houston,TX,,Sem gerente / Diretoria,1,Headquarters
